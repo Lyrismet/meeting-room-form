@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/meeting-room-form/static/css/main.073c9b0a.css",
-    "main.js": "/meeting-room-form/static/js/main.8ac28dd8.js",
-    "static/js/787.81161aa4.chunk.js": "/meeting-room-form/static/js/787.81161aa4.chunk.js",
-    "static/media/logo.svg": "/meeting-room-form/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/meeting-room-form/static/css/main.abd64e84.css",
+    "main.js": "/meeting-room-form/static/js/main.770f4111.js",
     "index.html": "/meeting-room-form/index.html",
-    "main.073c9b0a.css.map": "/meeting-room-form/static/css/main.073c9b0a.css.map",
-    "main.8ac28dd8.js.map": "/meeting-room-form/static/js/main.8ac28dd8.js.map",
-    "787.81161aa4.chunk.js.map": "/meeting-room-form/static/js/787.81161aa4.chunk.js.map"
+    "main.abd64e84.css.map": "/meeting-room-form/static/css/main.abd64e84.css.map",
+    "main.770f4111.js.map": "/meeting-room-form/static/js/main.770f4111.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8ac28dd8.js"
+    "static/css/main.abd64e84.css",
+    "static/js/main.770f4111.js"
   ]
 }
